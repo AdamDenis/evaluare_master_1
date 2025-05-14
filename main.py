@@ -1,1 +1,2 @@
-print("Hello, Evaluare Master 1!")
+def greet():
+    print("Hello from Feature A!")
