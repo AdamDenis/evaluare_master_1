@@ -1,1 +1,2 @@
 # Adaugă librăriile necesare aici
+pytest
