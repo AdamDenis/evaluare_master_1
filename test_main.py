@@ -9,5 +9,5 @@ def test_addition():
 def test_greet_message(capfd):
     greet()
     out, _ = capfd.readouterr()
-    assert "Hello from Feature A !" in out
+    assert "Hello from Feature A!" in out
     assert "Hello from Feature B!" in out
