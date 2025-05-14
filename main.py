@@ -1,0 +1,1 @@
+print("Hello, Evaluare Master 1!")
